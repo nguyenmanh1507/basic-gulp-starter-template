@@ -25,3 +25,4 @@ Using for project has basic folder structure
 * [Browsersync](http://www.browsersync.io/docs/gulp/) - Time-saving synchronised browser testing.
 * [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/) - Prefix CSS.
 * [gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) - Loads in any gulp plugins and attaches them to the global scope, or an object of your choice.
+* [wiredep](https://github.com/taptapship/wiredep#configuration) - Wire Bower dependencies to your source code.
