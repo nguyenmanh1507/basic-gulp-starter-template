@@ -1,0 +1,22 @@
+{
+  "name": "basic-gulp-starter-template",
+  "version": "1.0.0",
+  "description": "Basic Gulp Starter Template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenmanh1507/basic-gulp-starter-template.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "nguyenmanh1507",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyenmanh1507/basic-gulp-starter-template/issues"
+  },
+  "homepage": "https://github.com/nguyenmanh1507/basic-gulp-starter-template#readme"
+}
