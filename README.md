@@ -21,8 +21,8 @@ Using for project has basic folder structure
 * [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) - Sourcemap for JS file.
 * [gulp-jscs](https://www.npmjs.com/package/gulp-jscs/) - Check JavaScript code style with jscs.
 * [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin/) - Minify PNG, JPEG, GIF and SVG images.
-* [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont) - Create icon fonts from several SVG icons.
-* [Browsersync](http://www.browsersync.io/docs/gulp/) - Time-saving synchronised browser testing.
+* [gulp-iconfont](https://github.com/nfroidure/gulp-iconfont) - Create icon fonts from several SVG icons (error when install).
+* [Browsersync](http://www.browsersync.io/docs/gulp/) - Time-saving synchronised browser testing (error when install).
 * [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/) - Prefix CSS.
 * [gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) - Loads in any gulp plugins and attaches them to the global scope, or an object of your choice.
 * [wiredep](https://github.com/taptapship/wiredep#configuration) - Wire Bower dependencies to your source code.
