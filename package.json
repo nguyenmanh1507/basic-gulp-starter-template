@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nguyenmanh1507/basic-gulp-starter-template#readme",
   "devDependencies": {
+    "browser-sync": "^2.9.6",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.0.2",
     "gulp-concat": "^2.6.0",
