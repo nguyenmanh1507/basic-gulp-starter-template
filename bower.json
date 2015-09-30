@@ -1,0 +1,23 @@
+{
+  "name": "basic-gulp-starter-template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nguyenmanh1507/basic-gulp-starter-template",
+  "authors": [
+    "nguyenmanh1507 <nguyenmanh1507@gmail.com>"
+  ],
+  "description": "Basic Gulp Starter Template",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "gulp"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
